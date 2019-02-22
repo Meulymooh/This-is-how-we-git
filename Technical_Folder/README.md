@@ -9,4 +9,9 @@ cd ..
 subl README.md
 mkdir Technical_Folder
 cd Technical_Folder
-subl README.md
+subl README.mdgit
+cd ..
+git add .
+git status
+git commit -m "Assignement"
+git push origin master
